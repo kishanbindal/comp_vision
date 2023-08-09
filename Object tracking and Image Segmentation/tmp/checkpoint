@@ -1,0 +1,2 @@
+model_checkpoint_path: "cd_classifier_ckpt"
+all_model_checkpoint_paths: "cd_classifier_ckpt"
